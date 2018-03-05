@@ -1,5 +1,6 @@
 # traffic-prediction-r
-A machine learning neural network model for prediction of traffic
+A machine learning neural network model for prediction of traffic using R programming language.
+
 
 # Dataset Information
 Highways Agency network journey time and traffic flow data
@@ -20,8 +21,7 @@ into the road surface.
 
 Please note that journey times are derived from real vehicle
 observations and imputed using adjacent time periods or the same time
-period on different days. Further information is available in 'Field
-Descriptions' at the bottom of this page.
+period on different days.
 
 * Data fields
 
