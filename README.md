@@ -1,6 +1,6 @@
 # traffic-prediction-r
 A machine learning neural network model for prediction of traffic using R programming language.
-
+The neural network model is trained to predict traffic flow at a given link. 
 
 # Dataset Information
 Highways Agency network journey time and traffic flow data
