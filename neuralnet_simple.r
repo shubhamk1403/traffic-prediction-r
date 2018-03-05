@@ -1,5 +1,8 @@
+# neural network for prediction of traffic flow at a particular link 
+
 library(neuralnet)
 library(MASS)
+
 #Loading data
 rdata<-read.csv("Test.csv")
 
