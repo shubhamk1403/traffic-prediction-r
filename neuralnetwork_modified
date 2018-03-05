@@ -1,3 +1,5 @@
+##neural network with 1 hidden layer with 10 neurons
+
 library(neuralnet)
 library(MASS)
 #Loading data
@@ -80,7 +82,7 @@ test<-dat[-index,]
 str(train)
 str(test)
 
-#fittng neural net
+#fittng neural net 
 allVar<-colnames(d)
 predictorVar<-allVar[!allVar%in%"Flow"]
 predictorVar<-paste(predictorVar,collapse="+")
